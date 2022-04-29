@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @albinsantiagojr
-- 👀 I’m interested in Data Science and Technology in general
-- 🌱 I’m currently learning python and sql
-- 💞️ I’m looking to collaborate on python AI
 - 📫 How to reach me albinsantiago.jr@gmail.com
 
 <!---
